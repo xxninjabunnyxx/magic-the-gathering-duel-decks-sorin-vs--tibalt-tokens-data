@@ -1,0 +1,16 @@
+---
+object: set
+id: 5a20bd6d-97c6-4ba1-b737-9c6455777cf1
+code: tddk
+name: 'Duel Decks: Sorin vs. Tibalt Tokens'
+uri: https://api.scryfall.com/sets/5a20bd6d-97c6-4ba1-b737-9c6455777cf1
+scryfall_uri: https://scryfall.com/sets/tddk
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atddk&unique=prints
+released_at: '2013-03-15'
+set_type: token
+card_count: 1
+parent_set_code: ddk
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddk.svg?1694404800
